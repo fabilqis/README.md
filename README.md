@@ -1,5 +1,5 @@
 # Hey Ho
 
-My name is Dilla n\
-I am an hobbyist coder n\
+My name is Dilla \
+I am an hobbyist coder \
 Nice to meet you 
