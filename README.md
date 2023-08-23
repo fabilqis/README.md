@@ -1,4 +1,4 @@
-# Hey Ho
+# Hello there,
 
 :woman: My name is Dilla \
 :purple_heart: I am an hobbyist coder and love statistics \
